@@ -75,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				5D8861DE29B5DBAD00C31E53 /* ViewController.swift */,
+				5D8861F329B5DD2000C31E53 /* MyCell.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -92,7 +93,6 @@
 			isa = PBXGroup;
 			children = (
 				5D8861F129B5DC1800C31E53 /* Model.swift */,
-				5D8861F329B5DD2000C31E53 /* MyCell.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
