@@ -19,7 +19,8 @@ class Model {
     
     var toDoItems = [
         Item(taskName: "Понять что такое MVC"),
-        Item(taskName: "Сделать таблицу для начала")
+        Item(taskName: "Сделать таблицу для начала"),
+        Item(taskName: "Добавить всяких элементов чтобы на todolist было похоже")
     ]
     
 }
